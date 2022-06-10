@@ -4,7 +4,8 @@
 
 # Project Template
 
-:heart: Provides a project template containing community health files for the @sw-in-containers organization.
+This repository provides a project template containing community health files for
+the [@sw-in-containers](https://github.com/sw-in-containers/) organization.
 
 ## Feel like contributing?
 
