@@ -2,7 +2,7 @@
 
 ## Code of Conduct
 
-Before contributing to this project, please read our [code of conduct](CODE_OF_CONDUCT.md).
+Before contributing to this project, please read our [code of conduct](.github/CODE_OF_CONDUCT.md).
 
 ## CI/CD Pipelines
 
