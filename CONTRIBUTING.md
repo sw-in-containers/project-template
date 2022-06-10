@@ -10,7 +10,7 @@ We are using [GitHub Actions](https://github.com/features/actions) as a continuo
 
 For details, take a look at the following workflow configuration files:
 
-- [`workflows/lint.yaml`](workflows/lint.yaml)
+- [`workflows/lint.yaml`](.github/workflows/lint.yaml)
 
 ## Coding Standards
 
